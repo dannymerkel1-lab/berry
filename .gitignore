@@ -48,3 +48,4 @@ package.tgz
 
 coverage
 /berry
+/action-gh-release
